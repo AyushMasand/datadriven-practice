@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_lark_1830), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Healthiest Service Check History](./practice/sql/healthiest-service-check-history) | SQL | Hard | 2026-11-26 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-26 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-26 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-25 |

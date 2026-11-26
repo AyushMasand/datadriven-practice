@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_lark_1830), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-11-26 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-11-26 |
 | [Healthiest Service Check History](./practice/sql/healthiest-service-check-history) | SQL | Hard | 2026-11-26 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-26 |
